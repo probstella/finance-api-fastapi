@@ -1,5 +1,7 @@
 # Finance API
 
+![Tests](https://github.com/probstella/finance-api-fastapi/actions/workflows/tests.yml/badge.svg)
+
 API REST para controle de despesas pessoais, com resumo mensal por categoria.
 Feita com FastAPI, SQLAlchemy e SQLite, com testes automatizados em pytest.
 
